@@ -1,12 +1,11 @@
-ed3ea66d3261abe92a03b1498d6d4983 *DESCRIPTION
-92f87050d2894835fbd50002fc4a28b0 *LICENSE
+aebc891ed8e5b44ccfe140dcefa3551d *DESCRIPTION
+2d577ce07dc5bcdb7c0f7f91e6a24e06 *LICENSE
 6a102428eb39f78ae4dca81e8cc26cb9 *LICENSE.note
 13c5aaca3d23b5e62cccb721c149c5d1 *NAMESPACE
+711d33697f36b91206aab6935b681005 *NEWS.md
 bf0dcd596997412b9678ff49a6a1a049 *R/utils.R
 633af140ecf2211ff0dc018c34b50978 *R/visual-diff.R
-d95f81c753a844ea07c416a4288a2b6b *README.md
-af819f37b5e3417fc6504ffe1a5aebb4 *inst/htmlwidgets/diffviewer.js
-180975842ecedde4634c7a070e2adb3d *inst/htmlwidgets/diffviewer.yaml
+dd5ca87b43cbec192085faf0d9d94a90 *README.md
 2e43bc37092314c7c34840d148f34495 *inst/htmlwidgets/lib/PapaParse/LICENSE
 2ff0749321692afdcb9b805d9493dce3 *inst/htmlwidgets/lib/PapaParse/papaparse.min.js
 983231d296d2e0c8e4afb85a171cc105 *inst/htmlwidgets/lib/daff/LICENSE.md
@@ -17,7 +16,7 @@ af819f37b5e3417fc6504ffe1a5aebb4 *inst/htmlwidgets/diffviewer.js
 b00cc9642fc08d053d09ac01ec572a00 *inst/htmlwidgets/lib/diff2html/diff2html.min.css
 5d4d56c9731f5881d910600deb1eb13d *inst/htmlwidgets/lib/diff2html/diff2html.min.js
 1c639b3183e1663daa5fc6aeb72d8e3f *inst/htmlwidgets/lib/diffviewer/diffviewer.css
-6de38c7821efa97161f49c7a2ad256ac *inst/htmlwidgets/lib/diffviewer/diffviewer.js
+460e1479b32107a316bb6d738521b507 *inst/htmlwidgets/lib/diffviewer/diffviewer.js
 4f252523d4af0b478c810c2547a63e19 *inst/htmlwidgets/lib/jquery/jquery.min.js
 e6f0309f3f9919cd96cc45a4d4859c54 *inst/htmlwidgets/lib/jsdiff/LICENSE
 ca0b083c6d54afbbbeb65a4cef57829d *inst/htmlwidgets/lib/jsdiff/diff.js
