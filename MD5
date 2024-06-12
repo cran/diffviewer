@@ -1,11 +1,12 @@
-aebc891ed8e5b44ccfe140dcefa3551d *DESCRIPTION
-2d577ce07dc5bcdb7c0f7f91e6a24e06 *LICENSE
+7430dc620e29aaf8b68b16e8be2b15ca *DESCRIPTION
+90466f138e3f91e7fe71b4ef58603405 *LICENSE
 6a102428eb39f78ae4dca81e8cc26cb9 *LICENSE.note
 13c5aaca3d23b5e62cccb721c149c5d1 *NAMESPACE
-711d33697f36b91206aab6935b681005 *NEWS.md
+7dbb00664bd5519fd213cb9f38031b6e *NEWS.md
+df6cc46bc7fae1a55b713f3d5065b35a *R/diffviewer-package.R
 bf0dcd596997412b9678ff49a6a1a049 *R/utils.R
-633af140ecf2211ff0dc018c34b50978 *R/visual-diff.R
-dd5ca87b43cbec192085faf0d9d94a90 *README.md
+69127a7ce53cb3a912e479d1c4cde997 *R/visual-diff.R
+d27cd1595183ec4fd769b62076070545 *README.md
 2e43bc37092314c7c34840d148f34495 *inst/htmlwidgets/lib/PapaParse/LICENSE
 2ff0749321692afdcb9b805d9493dce3 *inst/htmlwidgets/lib/PapaParse/papaparse.min.js
 983231d296d2e0c8e4afb85a171cc105 *inst/htmlwidgets/lib/daff/LICENSE.md
@@ -15,7 +16,7 @@ dd5ca87b43cbec192085faf0d9d94a90 *README.md
 7986149eda53ec7b4d6c3441bb4fb15b *inst/htmlwidgets/lib/diff2html/diff2html-ui.min.js
 b00cc9642fc08d053d09ac01ec572a00 *inst/htmlwidgets/lib/diff2html/diff2html.min.css
 5d4d56c9731f5881d910600deb1eb13d *inst/htmlwidgets/lib/diff2html/diff2html.min.js
-1c639b3183e1663daa5fc6aeb72d8e3f *inst/htmlwidgets/lib/diffviewer/diffviewer.css
+15ff4d267c92de616e1f0c666bda824f *inst/htmlwidgets/lib/diffviewer/diffviewer.css
 460e1479b32107a316bb6d738521b507 *inst/htmlwidgets/lib/diffviewer/diffviewer.js
 4f252523d4af0b478c810c2547a63e19 *inst/htmlwidgets/lib/jquery/jquery.min.js
 e6f0309f3f9919cd96cc45a4d4859c54 *inst/htmlwidgets/lib/jsdiff/LICENSE
@@ -25,5 +26,6 @@ ca0b083c6d54afbbbeb65a4cef57829d *inst/htmlwidgets/lib/jsdiff/diff.js
 aefdb8f6d2a166dbb284ee452df9872f *inst/htmlwidgets/lib/resemble/resemble.js
 bf254832321ea9956224fdfefb727aba *inst/htmlwidgets/visual_diff.js
 05e15f1a7e0d5168ca82d65da4136f4a *inst/htmlwidgets/visual_diff.yaml
+5af6959df76e6c24395599ef79a0f06e *man/diffviewer-package.Rd
 78c6710693b21bcf3e7322090e4e1c6e *man/visual_diff.Rd
 2521048d7f6446192ec651fb3f1a4715 *man/visual_diff_output.Rd

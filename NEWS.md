@@ -1,3 +1,7 @@
+# diffviewer 0.1.2
+
+* diffviewer gets a sizing policy that works better in Rmds, and some css tweaks to ensure it's readable in dark mode.
+
 # diffviewer 0.1.1
 
 * The diffviewer widget previously ignored some very minor pixel differences, 
